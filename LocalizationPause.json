@@ -1,0 +1,37 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "PAUSE_PAUSED": "Pausat",
+        "PAUSE_ARE_YOU_SURE": "Segur que vols sortir?",
+        "PAUSE_PROGRESS_LOST": "Es perdrà el progrés actual.",
+        "PAUSE_YES": "Sí",
+        "PAUSE_NO": "No",
+        "PAUSE_SELECT": "Seleccionar",
+        "PAUSE_CLOSE": "Tancar",
+        "PAUSE_RESUME": "Reprendre",
+        "PAUSE_RESUME_DESCRIPTION": "",
+        "PAUSE_SETTINGS": "Opcions",
+        "PAUSE_SETTINGS_DESCRIPTION": "",
+        "PAUSE_RESTART": "Sortir al menú del joc",
+        "PAUSE_RESTART_DESCRIPTION": "",
+        "PAUSE_BACK_TO_PACK": "Sortir al pack",
+        "PAUSE_BACK_TO_PACK_DESCRIPTION": "",
+        "PAUSE_EXIT_TO_DESKTOP": "Sortir a l'escriptori",
+        "PAUSE_EXIT_TO_DESKTOP_DESCRIPTION": "",
+        "PAUSE_CONFIRMATION_YES": "Sí",
+        "PAUSE_CONFIRMATION_NO": "No",
+        "PAUSE_CONFIRMATION_EXIT": "Segur que vols sortir?",
+        "PAUSE_CONFIRMATION_RESTART": "Segur que vols reiniciar el joc?",
+        "PAUSE_CONFIRMATION_BACK_TO_PACK": "Segur que vols tornar al pack?",
+        "PAUSE_CHOOSE_ON_DEVICE": "Tria al teu dispositiu",
+        "BACK": "Enrere",
+        "SELECT": "Selecciona"
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}

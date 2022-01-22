@@ -1,0 +1,45 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+
+        "INTERNET_CONNECTED": "Acabem de trobar Internet.",
+        "INTERNET_DISCONNECTED": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "ROOM_DESTROYED": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        
+        "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament. (Causa: 1)",
+        "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament. (Causa: 2)",
+        "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament. (Causa: 3)",
+        "ROOM_EXIT_CAUSE_DISCONNECT": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament. (Causa: 4)",
+        "ROOM_EXIT_CAUSE_BY_REQUEST": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament. (Causa: 5)",
+        "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "S'ha produït un error i la sala s'ha destruït.<br />Comprova que la teva connexió a Internet funcioni correctament. (Causa: 6)",
+        
+        "SOCKET_DISCONNECTED": "Hem perdut la connexió als servidors de Jackbox Games.",
+        "TIMEOUT": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "TIMEOUT_INTERNET": "Sembla que no ens podem connectar als servidors de Jackbox Games.<br />Comprova que la teva connexió a Internet funcioni correctament.",
+        "USER_DISCONNECT": "Ho sentim, el servidor t'ha desconnectat. Torna-ho a intentar, si us plau.",
+        "USER_ACCESS_DENIED": "Ho sentim, ha ocorregut un error que impedeix continuar.",
+        "START_PRIVILEGE_ERROR": "Ho sentim, ha ocorregut un error que impedeix continuar.",
+        "TROPHY_PREPARE_ERROR": "Ho sentim, ha ocorregut un error que impedeix continuar.",
+        "SAVE_PREPARE_FAIL": "Ho sentim, ha ocorregut un error que impedeix continuar.",
+        "LICENSE_ERROR": "No hem trobat la llicència d'aquest contingut.",
+        "LOST_LICENSE": "No hem trobat la llicència d'aquest contingut.",
+        "STEAM_ERROR": "No hem pogut validar la teva llicència de Steam.",
+        "TWITCH_PRIME_ERROR": "No hem pogut validar la teva llicència de Twitch Prime.",
+        "LOST_DLC": "No hem trobat la llicència del teu DLC. Tornant al menú...",
+        "START": "COMENÇAR",
+        "SKIP": "SALTAR",
+        "LOADING": "CARREGANT...",
+        "SWITCH_USER": "CANVIAR USUARI",
+        "LEGAL": "Creat i desenvolupat per Jackbox Games, Inc. Games and Software © 2021 Jackbox Games, Inc. Tots els drets reservats. Jackbox Games i el logotip de Jackbox Games són marques registrades de Jackbox Games, Inc. Drawful Animate, The Wheel of Enormous Proportions, Job Job, The Poll Mine, Weapons Drawn i Party Pack són marques de Jackbox Games, Inc. Totes les altres marques i logos són propietat dels seus respectius propietaris.",
+        "LEGAL_CRIWARE": "Impulsat per \"CRIWARE\". CRIWARE és una marca de CRI Middleware Co., Ltd.",
+        "LEGAL_FMOD": "Aquest producte utilitza FMOD Sound System de Firelight Technologies",
+        "LEGAL_STADIA": "No es pretén cap patrocini o afiliació entre Stadia i els fabricants de mandos i consoles que no són de Stadia. STADIA, el beacon de Stadia, Google, i les marques i logos relacionats són marques registrades de Google LLC. Totes les altres marques són propietat dels seus respectius propietaris."
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}

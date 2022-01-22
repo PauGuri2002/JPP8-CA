@@ -1,0 +1,91 @@
+{
+    "table":{
+    "en": {
+        "BACK": "Enrere",
+        "SELECT": "Selecciona",
+        "SETTINGS_TITLE": "Opcions",
+        
+        "AUDIO_VIDEO_CATEGORY": "Audio/Vídeo",
+        "CONTENT_CONTROL_CATEGORY": "Filtres",
+        "ACCESSIBILITY_CATEGORY": "Accesibilitat",
+        "GAMEPLAY_CATEGORY": "Jugabilitat",
+
+        "VOLUME": "Volum General",
+		"VOLUME_DESCRIPTION": "Ajusta el volum global.",
+		"VOLUME_HOST": "Volum de Veu",
+		"VOLUME_HOST_DESCRIPTION": "Ajusta el volum del presentador.",
+		"VOLUME_SFX": "Volum d'Efectes",
+		"VOLUME_SFX_DESCRIPTION": "Ajusta el volum dels efectes de so.",
+		"VOLUME_MUSIC": "Volum de Música",
+		"VOLUME_MUSIC_DESCRIPTION": "Ajusta el volum de la música.",
+
+        "FULL_SCREEN": "Pantalla Completa",
+		"FULL_SCREEN_DESCRIPTION": "Posa el joc en pantalla completa.",
+
+        "FAMILY_FRIENDLY": "Family-Friendly",
+        "FAMILY_FRIENDLY_DESCRIPTION": "ACTIVA per evitar el contingut més provocatiu del joc.",
+
+        "PLAYER_CONTENT_FILTERING": "Filtre de Blasfèmies",
+        "PLAYER_CONTENT_FILTERING_OFF_DESCRIPTION": "No es filtra cap text.",
+        "PLAYER_CONTENT_FILTERING_HATE_SPEECH_DESCRIPTION": "Paraules utilitzades en discursos d'odi descartaran el text. La blasfèmia està permesa.",
+        "PLAYER_CONTENT_FILTERING_PROFANITY_DESCRIPTION": "Paraules de discursos d'odi i blasfèmia provocaran que es descarti el text.",
+        "PLAYER_CONTENT_FILTERING_OFF": "Off",
+        "PLAYER_CONTENT_FILTERING_HATE_SPEECH": "Moderat",
+        "PLAYER_CONTENT_FILTERING_PROFANITY": "Estricte",
+
+        "MODERATION": "Moderació",
+        "MODERATION_DESCRIPTION": "Permet que moderadors filtrin el contingut dels jugadors.<br />Els moderadors s'uneixen a mod.jackbox.tv.",
+        "MODERATION_PASSWORD": "Contrasenya de mod.",
+
+        "FILTER_US_CENTRIC": "Filtra Contingut Centrat en els EUA",
+        "FILTER_US_CENTRIC_DESCRIPTION": "Redueix el nombre d'enunciats centrats en els EUA.",
+
+        "FILTER_PLAYERNAME": "Filtra Enunciats Centrats en Jugadors",
+        "FILTER_PLAYERNAME_DESCRIPTION": "Elimina enunciats que es refereixen a un jugador específic del joc.",
+
+        "SUBTITLES": "Subtítols",
+        "SUBTITLES_DESCRIPTION": "Mostra subtítols en pantalla.",
+
+        "MOTION_SENSITIVITY": "Sensibilitat al Moviment",
+        "MOTION_SENSITIVITY_DESCRIPTION": "Redueix sensibilitat al moviment eliminant fons mòbils.",
+
+        "NO_TIMERS": "Temps infinit",
+        "NO_TIMERS_DESCRIPTION": "Desactiva els temporitzadors sempre que sigui possible. Espera a que tots els jugadors hagin acabat per continuar.",
+
+        "EXTENDED_TIMERS": "Temporitzadors extesos",
+		"EXTENDED_TIMERS_DESCRIPTION": "Extendre els temporitzadors et donarà més temps per prendre decisions.",
+
+        "AUDIENCE_MODE": "Audiència",
+        "AUDIENCE_MODE_DESCRIPTION": "ACTIVA per permetre que no-jugadors s'uneixin i afectin la partida.",
+
+        "SKIP_TUTORIALS": "Salta Tutorials",
+        "SKIP_TUTORIALS_DESCRIPTION": "Salta les seccions de tutorial.",
+        
+        "POSTGAME_SHARING": "Compartició Post-partida",
+		"POSTGAME_SHARING_DESCRIPTION": "Permet que els jugadors puguin compartir les respostes i moments d'aquest joc a les xarxes.",
+
+        "PASSWORD_PROTECTED": "Joc amb Contrassenya",
+        "PASSWORD_PROTECTED_DESCRIPTION": "Genera una contrasenya que els jugadors han d'escriure per entrar a la partida.",
+        "PASSWORD_PROTECTED_LABEL": "Contrasenya",
+
+        "TWITCH_REQUIRED": "Demana Twitch",
+		"TWITCH_REQUIRED_DESCRIPTION": "Requereix que els jugadors hagin iniciat sessió a Twitch.",
+
+        "START_GAMEPAD": "Comença el Joc amb Mando",
+		"START_GAMEPAD_DESCRIPTION": "Els jocs es començaran amb un botó del mando, no amb els dispositius dels jugadors.",
+
+        "HIDE_ROOM_CODE": "Permet Ocultar Codi",
+		"HIDE_ROOM_CODE_DESCRIPTION": "Permet que s'amagui el codi de la sala.",
+
+        "ALLOW_PLAYER_CONTENT_ON_SCREEN": "Mostra Contingut de Jugadors",
+        "ALLOW_PLAYER_CONTENT_ON_SCREEN_DESCRIPTION": "Els jugadors escriuen les seves pròpies preguntes i contingut generat pels jugadors pot aparèixer en pantalla.",
+
+        "MAX_PLAYERS": "Jugadors Màxims",
+        "MAX_PLAYERS_DESCRIPTION": "Nombre màxims de jugadors que poden entrar a la partida abans de ser afegits a l'audiència.",
+        
+        "SETTINGS_WARNING_MENU": "",
+        "SETTINGS_WARNING_LOBBY": "Algunes opcions no es poden modificar un cop s'ha creat la sala.",
+        "SETTINGS_WARNING_PAUSE": "Algunes opcions no es poden modificar un cop la partida ha començat."
+    }
+    }
+}
