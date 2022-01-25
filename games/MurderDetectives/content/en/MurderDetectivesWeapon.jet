@@ -1,0 +1,2542 @@
+{
+ "content": [
+  {
+   "id": "80830",
+   "isValid": "",
+   "weapon": "espasa extranya",
+   "x": false
+  },
+  {
+   "id": "80831",
+   "isValid": "",
+   "weapon": "trampa",
+   "x": false
+  },
+  {
+   "id": "80832",
+   "isValid": "",
+   "weapon": "foc",
+   "x": false
+  },
+  {
+   "id": "80833",
+   "isValid": "",
+   "weapon": "aranya",
+   "x": false
+  },
+  {
+   "id": "80834",
+   "isValid": "",
+   "weapon": "manipulació",
+   "x": false
+  },
+  {
+   "id": "80835",
+   "isValid": "",
+   "weapon": "amabilitat",
+   "x": false
+  },
+  {
+   "id": "80836",
+   "isValid": "",
+   "weapon": "enclusa gegant",
+   "x": false
+  },
+  {
+   "id": "80837",
+   "isValid": "",
+   "weapon": "dinamita",
+   "x": false
+  },
+  {
+   "id": "80838",
+   "isValid": "",
+   "weapon": "dofí entrenat",
+   "x": false
+  },
+  {
+   "id": "80839",
+   "isValid": "",
+   "weapon": "mirada petrificant",
+   "x": false
+  },
+  {
+   "id": "80841",
+   "isValid": "",
+   "weapon": "coixí tovet",
+   "x": false
+  },
+  {
+   "id": "80842",
+   "isValid": "",
+   "weapon": "arc i fletxes",
+   "x": false
+  },
+  {
+   "id": "80843",
+   "isValid": "",
+   "weapon": "banjo",
+   "x": false
+  },
+  {
+   "id": "80844",
+   "isValid": "",
+   "weapon": "mitjons repugnants",
+   "x": false
+  },
+  {
+   "id": "80845",
+   "isValid": "",
+   "weapon": "paella",
+   "x": false
+  },
+  {
+   "id": "80846",
+   "isValid": "",
+   "weapon": "ampolla de verí",
+   "x": false
+  },
+  {
+   "id": "80847",
+   "isValid": "",
+   "weapon": "“accident”",
+   "x": false
+  },
+  {
+   "id": "80848",
+   "isValid": "",
+   "weapon": "ramat de llops",
+   "x": false
+  },
+  {
+   "id": "80849",
+   "isValid": "",
+   "weapon": "abelles",
+   "x": false
+  },
+  {
+   "id": "80850",
+   "isValid": "",
+   "weapon": "poni agresiu",
+   "x": false
+  },
+  {
+   "id": "80851",
+   "isValid": "",
+   "weapon": "robot assassí",
+   "x": false
+  },
+  {
+   "id": "80852",
+   "isValid": "",
+   "weapon": "esperit vengatiu",
+   "x": false
+  },
+  {
+   "id": "80853",
+   "isValid": "",
+   "weapon": "avorriment",
+   "x": false
+  },
+  {
+   "id": "80854",
+   "isValid": "",
+   "weapon": "cotxe súper insegur",
+   "x": false
+  },
+  {
+   "id": "80855",
+   "isValid": "",
+   "weapon": "el majordom",
+   "x": false
+  },
+  {
+   "id": "80856",
+   "isValid": "",
+   "weapon": "motoserra",
+   "x": false
+  },
+  {
+   "id": "80857",
+   "isValid": "",
+   "weapon": "advocat despietat",
+   "x": false
+  },
+  {
+   "id": "80859",
+   "isValid": "",
+   "weapon": "tren sabotejat",
+   "x": false
+  },
+  {
+   "id": "80860",
+   "isValid": "",
+   "weapon": "màquina aplanadora",
+   "x": false
+  },
+  {
+   "id": "80861",
+   "isValid": "",
+   "weapon": "el pas del temps",
+   "x": false
+  },
+  {
+   "id": "80862",
+   "isValid": "",
+   "weapon": "bigoti maligne",
+   "x": false
+  },
+  {
+   "id": "80863",
+   "isValid": "",
+   "weapon": "paraigües",
+   "x": false
+  },
+  {
+   "id": "80864",
+   "isValid": "",
+   "weapon": "gasos tòxics",
+   "x": false
+  },
+  {
+   "id": "80865",
+   "isValid": "",
+   "weapon": "descàrrega elèctrica",
+   "x": false
+  },
+  {
+   "id": "80866",
+   "isValid": "",
+   "weapon": "gos excitable",
+   "x": false
+  },
+  {
+   "id": "80867",
+   "isValid": "",
+   "weapon": "pantera",
+   "x": false
+  },
+  {
+   "id": "80868",
+   "isValid": "",
+   "weapon": "formigues de foc",
+   "x": false
+  },
+  {
+   "id": "80869",
+   "isValid": "",
+   "weapon": "equipament esportiu",
+   "x": false
+  },
+  {
+   "id": "80870",
+   "isValid": "",
+   "weapon": "ansietat",
+   "x": false
+  },
+  {
+   "id": "80871",
+   "isValid": "",
+   "weapon": "col·lecció de DVDs",
+   "x": false
+  },
+  {
+   "id": "80872",
+   "isValid": "",
+   "weapon": "les escales",
+   "x": false
+  },
+  {
+   "id": "80874",
+   "isValid": "",
+   "weapon": "guillotina",
+   "x": false
+  },
+  {
+   "id": "80876",
+   "isValid": "",
+   "weapon": "un podcast",
+   "x": false
+  },
+  {
+   "id": "80877",
+   "isValid": "",
+   "weapon": "tresor maleït",
+   "x": false
+  },
+  {
+   "id": "80879",
+   "isValid": "",
+   "weapon": "pop",
+   "x": false
+  },
+  {
+   "id": "80880",
+   "isValid": "",
+   "weapon": "alèrgia als cacauets",
+   "x": false
+  },
+  {
+   "id": "80881",
+   "isValid": "",
+   "weapon": "ós",
+   "x": false
+  },
+  {
+   "id": "80882",
+   "isValid": "",
+   "weapon": "atac d'un tauró",
+   "x": false
+  },
+  {
+   "id": "80883",
+   "isValid": "",
+   "weapon": "llançaflames",
+   "x": false
+  },
+  {
+   "id": "80884",
+   "isValid": "",
+   "weapon": "cor trencat",
+   "x": false
+  },
+  {
+   "id": "80885",
+   "isValid": "",
+   "weapon": "fantasmes",
+   "x": false
+  },
+  {
+   "id": "80886",
+   "isValid": "",
+   "weapon": "sobredosi de vitamina c",
+   "x": true
+  },
+  {
+   "id": "80887",
+   "isValid": "",
+   "weapon": "por",
+   "x": false
+  },
+  {
+   "id": "80888",
+   "isValid": "",
+   "weapon": "tiraxines",
+   "x": false
+  },
+  {
+   "id": "80890",
+   "isValid": "",
+   "weapon": "shuriken",
+   "x": false
+  },
+  {
+   "id": "80891",
+   "isValid": "",
+   "weapon": "maó",
+   "x": false
+  },
+  {
+   "id": "80892",
+   "isValid": "",
+   "weapon": "terratrèmol controlat",
+   "x": false
+  },
+  {
+   "id": "80893",
+   "isValid": "",
+   "weapon": "matxet",
+   "x": false
+  },
+  {
+   "id": "80894",
+   "isValid": "",
+   "weapon": "raspall",
+   "x": false
+  },
+  {
+   "id": "80895",
+   "isValid": "",
+   "weapon": "exercici",
+   "x": false
+  },
+  {
+   "id": "80896",
+   "isValid": "",
+   "weapon": "pandereta",
+   "x": false
+  },
+  {
+   "id": "80897",
+   "isValid": "",
+   "weapon": "llibre molt gran",
+   "x": false
+  },
+  {
+   "id": "80898",
+   "isValid": "",
+   "weapon": "serp",
+   "x": false
+  },
+  {
+   "id": "80899",
+   "isValid": "",
+   "weapon": "clau anglesa",
+   "x": false
+  },
+  {
+   "id": "80900",
+   "isValid": "",
+   "weapon": "banc de peixos",
+   "x": false
+  },
+  {
+   "id": "80901",
+   "isValid": "",
+   "weapon": "intolerància a la lactosa",
+   "x": false
+  },
+  {
+   "id": "80902",
+   "isValid": "",
+   "weapon": "aspiradora",
+   "x": false
+  },
+  {
+   "id": "80903",
+   "isValid": "",
+   "weapon": "violoncel",
+   "x": false
+  },
+  {
+   "id": "80904",
+   "isValid": "",
+   "weapon": "trampolí",
+   "x": false
+  },
+  {
+   "id": "80905",
+   "isValid": "",
+   "weapon": "gos salsitxa",
+   "x": false
+  },
+  {
+   "id": "80906",
+   "isValid": "",
+   "weapon": "paper afilat",
+   "x": false
+  },
+  {
+   "id": "80907",
+   "isValid": "",
+   "weapon": "contacte visual intens",
+   "x": false
+  },
+  {
+   "id": "80908",
+   "isValid": "",
+   "weapon": "carro de la compra",
+   "x": false
+  },
+  {
+   "id": "80909",
+   "isValid": "",
+   "weapon": "ventilador",
+   "x": false
+  },
+  {
+   "id": "80910",
+   "isValid": "",
+   "weapon": "piruleta",
+   "x": false
+  },
+  {
+   "id": "80911",
+   "isValid": "",
+   "weapon": "pinya",
+   "x": false
+  },
+  {
+   "id": "80913",
+   "isValid": "",
+   "weapon": "xiclet",
+   "x": false
+  },
+  {
+   "id": "80914",
+   "isValid": "",
+   "weapon": "esperar a la cua",
+   "x": false
+  },
+  {
+   "id": "80915",
+   "isValid": "",
+   "weapon": "llamp",
+   "x": false
+  },
+  {
+   "id": "80916",
+   "isValid": "",
+   "weapon": "ball de bastons",
+   "x": false
+  },
+  {
+   "id": "80917",
+   "isValid": "",
+   "weapon": "esmaixada",
+   "x": false
+  },
+  {
+   "id": "80918",
+   "isValid": "",
+   "weapon": "iogurt caducat",
+   "x": false
+  },
+  {
+   "id": "80919",
+   "isValid": "",
+   "weapon": "raig làser",
+   "x": false
+  },
+  {
+   "id": "80920",
+   "isValid": "",
+   "weapon": "pistola d'aigua",
+   "x": false
+  },
+  {
+   "id": "80921",
+   "isValid": "",
+   "weapon": "roda de formatge",
+   "x": false
+  },
+  {
+   "id": "80922",
+   "isValid": "",
+   "weapon": "roca enorme",
+   "x": false
+  },
+  {
+   "id": "80923",
+   "isValid": "",
+   "weapon": "forquilla gegant",
+   "x": false
+  },
+  {
+   "id": "80924",
+   "isValid": "",
+   "weapon": "estic d'hoquei",
+   "x": false
+  },
+  {
+   "id": "80925",
+   "isValid": "",
+   "weapon": "pica-soques vampíric",
+   "x": false
+  },
+  {
+   "id": "80926",
+   "isValid": "",
+   "weapon": "fregidora",
+   "x": false
+  },
+  {
+   "id": "80927",
+   "isValid": "",
+   "weapon": "destral",
+   "x": false
+  },
+  {
+   "id": "80928",
+   "isValid": "",
+   "weapon": "cop de puny",
+   "x": false
+  },
+  {
+   "id": "80929",
+   "isValid": "",
+   "weapon": "monstre del llac",
+   "x": false
+  },
+  {
+   "id": "80930",
+   "isValid": "",
+   "weapon": "plàstic de bombolles",
+   "x": false
+  },
+  {
+   "id": "80931",
+   "isValid": "",
+   "weapon": "aigua bullint",
+   "x": false
+  },
+  {
+   "id": "81532",
+   "isValid": "",
+   "weapon": "poma maleïda",
+   "x": false
+  },
+  {
+   "id": "81574",
+   "isValid": "",
+   "weapon": "llumí encès",
+   "x": false
+  },
+  {
+   "id": "81575",
+   "isValid": "",
+   "weapon": "telescopi",
+   "x": false
+  },
+  {
+   "id": "81577",
+   "isValid": "",
+   "weapon": "ensurt mortal",
+   "x": false
+  },
+  {
+   "id": "81578",
+   "isValid": "",
+   "weapon": "ungles llargues",
+   "x": false
+  },
+  {
+   "id": "81579",
+   "isValid": "",
+   "weapon": "garrotada",
+   "x": false
+  },
+  {
+   "id": "81582",
+   "isValid": "",
+   "weapon": "obrecartes",
+   "x": false
+  },
+  {
+   "id": "81583",
+   "isValid": "",
+   "weapon": "globus terraqui",
+   "x": false
+  },
+  {
+   "id": "81584",
+   "isValid": "",
+   "weapon": "llet en mal estat",
+   "x": false
+  },
+  {
+   "id": "81588",
+   "isValid": "",
+   "weapon": "blàster",
+   "x": false
+  },
+  {
+   "id": "81589",
+   "isValid": "",
+   "weapon": "palanqueta",
+   "x": false
+  },
+  {
+   "id": "81590",
+   "isValid": "",
+   "weapon": "deshidratació",
+   "x": false
+  },
+  {
+   "id": "81591",
+   "isValid": "",
+   "weapon": "pudor d'aixella",
+   "x": false
+  },
+  {
+   "id": "81592",
+   "isValid": "",
+   "weapon": "pessigolles",
+   "x": false
+  },
+  {
+   "id": "81593",
+   "isValid": "",
+   "weapon": "corda",
+   "x": false
+  },
+  {
+   "id": "81594",
+   "isValid": "",
+   "weapon": "grua",
+   "x": false
+  },
+  {
+   "id": "81595",
+   "isValid": "",
+   "weapon": "corró d'amassar",
+   "x": false
+  },
+  {
+   "id": "81597",
+   "isValid": "",
+   "weapon": "làmpara",
+   "x": false
+  },
+  {
+   "id": "81598",
+   "isValid": "",
+   "weapon": "ornitorrinc",
+   "x": false
+  },
+  {
+   "id": "81639",
+   "isValid": "",
+   "weapon": "senyal de stop",
+   "x": false
+  },
+  {
+   "id": "81640",
+   "isValid": "",
+   "weapon": "sabates de claqué",
+   "x": false
+  },
+  {
+   "id": "81641",
+   "isValid": "",
+   "weapon": "alçades",
+   "x": false
+  },
+  {
+   "id": "81643",
+   "isValid": "",
+   "weapon": "monovolum",
+   "x": false
+  },
+  {
+   "id": "81644",
+   "isValid": "",
+   "weapon": "regal d'aniversari",
+   "x": false
+  },
+  {
+   "id": "81646",
+   "isValid": "",
+   "weapon": "peix espasa",
+   "x": false
+  },
+  {
+   "id": "81648",
+   "isValid": "",
+   "weapon": "serra circular",
+   "x": false
+  },
+  {
+   "id": "81649",
+   "isValid": "",
+   "weapon": "company d'habitació",
+   "x": false
+  },
+  {
+   "id": "81650",
+   "isValid": "",
+   "weapon": "marató",
+   "x": false
+  },
+  {
+   "id": "81662",
+   "isValid": "",
+   "weapon": "iceberg",
+   "x": false
+  },
+  {
+   "id": "81663",
+   "isValid": "",
+   "weapon": "estàtua de marbre",
+   "x": false
+  },
+  {
+   "id": "81665",
+   "isValid": "",
+   "weapon": "música alta",
+   "x": false
+  },
+  {
+   "id": "81666",
+   "isValid": "",
+   "weapon": "pallasso de circ",
+   "x": false
+  },
+  {
+   "id": "81667",
+   "isValid": "",
+   "weapon": "estofat de vedella",
+   "x": false
+  },
+  {
+   "id": "81668",
+   "isValid": "",
+   "weapon": "felicitat",
+   "x": false
+  },
+  {
+   "id": "81669",
+   "isValid": "",
+   "weapon": "ogre",
+   "x": false
+  },
+  {
+   "id": "81672",
+   "isValid": "",
+   "weapon": "granades",
+   "x": false
+  },
+  {
+   "id": "81673",
+   "isValid": "",
+   "weapon": "email enganyós",
+   "x": false
+  },
+  {
+   "id": "81675",
+   "isValid": "",
+   "weapon": "la màgia del teatre",
+   "x": false
+  },
+  {
+   "id": "81677",
+   "isValid": "",
+   "weapon": "calçotada",
+   "x": false
+  },
+  {
+   "id": "81678",
+   "isValid": "",
+   "weapon": "orb misteriós",
+   "x": false
+  },
+  {
+   "id": "81679",
+   "isValid": "",
+   "weapon": "xef malèvol",
+   "x": false
+  },
+  {
+   "id": "81680",
+   "isValid": "",
+   "weapon": "volcà",
+   "x": false
+  },
+  {
+   "id": "81684",
+   "isValid": "",
+   "weapon": "allau",
+   "x": false
+  },
+  {
+   "id": "81685",
+   "isValid": "",
+   "weapon": "accident alpinista",
+   "x": false
+  },
+  {
+   "id": "81686",
+   "isValid": "",
+   "weapon": "invasió alienígena",
+   "x": false
+  },
+  {
+   "id": "81687",
+   "isValid": "",
+   "weapon": "nina posseïda",
+   "x": false
+  },
+  {
+   "id": "81688",
+   "isValid": "",
+   "weapon": "adolescents emo",
+   "x": false
+  },
+  {
+   "id": "81737",
+   "isValid": "",
+   "weapon": "imant gegant",
+   "x": false
+  },
+  {
+   "id": "81739",
+   "isValid": "",
+   "weapon": "martell de fireta",
+   "x": false
+  },
+  {
+   "id": "81742",
+   "isValid": "",
+   "weapon": "sardanes",
+   "x": false
+  },
+  {
+   "id": "81744",
+   "isValid": "",
+   "weapon": "soledat",
+   "x": false
+  },
+  {
+   "id": "81746",
+   "isValid": "",
+   "weapon": "pa dur",
+   "x": false
+  },
+  {
+   "id": "81748",
+   "isValid": "",
+   "weapon": "molla gegant",
+   "x": false
+  },
+  {
+   "id": "81750",
+   "isValid": "",
+   "weapon": "matalàs de l'abocador",
+   "x": false
+  },
+  {
+   "id": "81751",
+   "isValid": "",
+   "weapon": "vitrall",
+   "x": false
+  },
+  {
+   "id": "81752",
+   "isValid": "",
+   "weapon": "tetera britànica",
+   "x": false
+  },
+  {
+   "id": "81753",
+   "isValid": "",
+   "weapon": "perfum intens",
+   "x": false
+  },
+  {
+   "id": "81755",
+   "isValid": "",
+   "weapon": "la porcellana de la iaia",
+   "x": false
+  },
+  {
+   "id": "81756",
+   "isValid": "",
+   "weapon": "xafarderia",
+   "x": false
+  },
+  {
+   "id": "81757",
+   "isValid": "",
+   "weapon": "ós de peluix explosiu",
+   "x": false
+  },
+  {
+   "id": "81758",
+   "isValid": "",
+   "weapon": "descapotable vermell",
+   "x": false
+  },
+  {
+   "id": "81760",
+   "isValid": "",
+   "weapon": "molts frisbees",
+   "x": false
+  },
+  {
+   "id": "81762",
+   "isValid": "",
+   "weapon": "braç biònic",
+   "x": false
+  },
+  {
+   "id": "81764",
+   "isValid": "",
+   "weapon": "equipatge de mà",
+   "x": false
+  },
+  {
+   "id": "81765",
+   "isValid": "",
+   "weapon": "branca retorçada",
+   "x": false
+  },
+  {
+   "id": "81766",
+   "isValid": "",
+   "weapon": "globus aerostàtic",
+   "x": false
+  },
+  {
+   "id": "81767",
+   "isValid": "",
+   "weapon": "sabates de claus",
+   "x": false
+  },
+  {
+   "id": "81768",
+   "isValid": "",
+   "weapon": "tortuga intel·ligent",
+   "x": false
+  },
+  {
+   "id": "81769",
+   "isValid": "",
+   "weapon": "banyera amb potes",
+   "x": false
+  },
+  {
+   "id": "81770",
+   "isValid": "",
+   "weapon": "ploma i tinter",
+   "x": false
+  },
+  {
+   "id": "81771",
+   "isValid": "",
+   "weapon": "canonada antiquada",
+   "x": false
+  },
+  {
+   "id": "81772",
+   "isValid": "",
+   "weapon": "pujar-se al tallagespa",
+   "x": false
+  },
+  {
+   "id": "81773",
+   "isValid": "",
+   "weapon": "planta rodadora",
+   "x": false
+  },
+  {
+   "id": "81775",
+   "isValid": "",
+   "weapon": "màquina escurabutxaques",
+   "x": false
+  },
+  {
+   "id": "81776",
+   "isValid": "",
+   "weapon": "depiladora",
+   "x": false
+  },
+  {
+   "id": "81779",
+   "isValid": "",
+   "weapon": "flor de pallasso",
+   "x": false
+  },
+  {
+   "id": "81780",
+   "isValid": "",
+   "weapon": "cuixa de pollastre gegant",
+   "x": false
+  },
+  {
+   "id": "81781",
+   "isValid": "",
+   "weapon": "tovallola de platja",
+   "x": false
+  },
+  {
+   "id": "81784",
+   "isValid": "",
+   "weapon": "el fons marí",
+   "x": false
+  },
+  {
+   "id": "81786",
+   "isValid": "",
+   "weapon": "mans fredes",
+   "x": false
+  },
+  {
+   "id": "81931",
+   "isValid": "",
+   "weapon": "mitjó ple de monedes",
+   "x": false
+  },
+  {
+   "id": "81932",
+   "isValid": "",
+   "weapon": "tonyina",
+   "x": false
+  },
+  {
+   "id": "81933",
+   "isValid": "",
+   "weapon": "candau de bici",
+   "x": false
+  },
+  {
+   "id": "81934",
+   "isValid": "",
+   "weapon": "el rellotge de l'avi",
+   "x": false
+  },
+  {
+   "id": "81935",
+   "isValid": "",
+   "weapon": "carta plena d'insults",
+   "x": false
+  },
+  {
+   "id": "81936",
+   "isValid": "",
+   "weapon": "una maça",
+   "x": false
+  },
+  {
+   "id": "81939",
+   "isValid": "",
+   "weapon": "tallapizzes",
+   "x": false
+  },
+  {
+   "id": "81940",
+   "isValid": "",
+   "weapon": "molts i molts gats",
+   "x": false
+  },
+  {
+   "id": "82244",
+   "isValid": "",
+   "weapon": "prestatgeria pesada",
+   "x": false
+  },
+  {
+   "id": "82245",
+   "isValid": "",
+   "weapon": "picada de medusa",
+   "x": false
+  },
+  {
+   "id": "82249",
+   "isValid": "",
+   "weapon": "vaca",
+   "x": false
+  },
+  {
+   "id": "82250",
+   "isValid": "",
+   "weapon": "amulet extrany",
+   "x": false
+  },
+  {
+   "id": "82252",
+   "isValid": "",
+   "weapon": "rellotge de paret",
+   "x": false
+  },
+  {
+   "id": "82254",
+   "isValid": "",
+   "weapon": "ventilador de sostre",
+   "x": false
+  },
+  {
+   "id": "82255",
+   "isValid": "",
+   "weapon": "pòcima màgica",
+   "x": false
+  },
+  {
+   "id": "82258",
+   "isValid": "",
+   "weapon": "aire acondicionat",
+   "x": false
+  },
+  {
+   "id": "82260",
+   "isValid": "",
+   "weapon": "insults",
+   "x": false
+  },
+  {
+   "id": "82264",
+   "isValid": "",
+   "weapon": "piano de cua",
+   "x": false
+  },
+  {
+   "id": "82265",
+   "isValid": "",
+   "weapon": "glamorós lleó marí",
+   "x": false
+  },
+  {
+   "id": "82267",
+   "isValid": "",
+   "weapon": "colesterol alt",
+   "x": false
+  },
+  {
+   "id": "82268",
+   "isValid": "",
+   "weapon": "sobres podrides",
+   "x": false
+  },
+  {
+   "id": "82271",
+   "isValid": "",
+   "weapon": "liquadora futurista",
+   "x": false
+  },
+  {
+   "id": "82272",
+   "isValid": "",
+   "weapon": "bany d'escuma",
+   "x": false
+  },
+  {
+   "id": "82273",
+   "isValid": "",
+   "weapon": "decepció",
+   "x": false
+  },
+  {
+   "id": "82274",
+   "isValid": "",
+   "weapon": "equipament de gimnàs",
+   "x": false
+  },
+  {
+   "id": "82276",
+   "isValid": "",
+   "weapon": "àcid",
+   "x": false
+  },
+  {
+   "id": "82306",
+   "isValid": "",
+   "weapon": "tisora de podar\n",
+   "x": false
+  },
+  {
+   "id": "82309",
+   "isValid": "",
+   "weapon": "xantatge emocional",
+   "x": false
+  },
+  {
+   "id": "82312",
+   "isValid": "",
+   "weapon": "pressió social",
+   "x": false
+  },
+  {
+   "id": "82314",
+   "isValid": "",
+   "weapon": "anime",
+   "x": false
+  },
+  {
+   "id": "82432",
+   "isValid": "",
+   "weapon": "estalactita",
+   "x": false
+  },
+  {
+   "id": "82433",
+   "isValid": "",
+   "weapon": "hamburguesa quàdruple",
+   "x": false
+  },
+  {
+   "id": "82435",
+   "isValid": "",
+   "weapon": "bazooka",
+   "x": false
+  },
+  {
+   "id": "82437",
+   "isValid": "",
+   "weapon": "feina de 9 a 5",
+   "x": false
+  },
+  {
+   "id": "82445",
+   "isValid": "",
+   "weapon": "ballar",
+   "x": false
+  },
+  {
+   "id": "82447",
+   "isValid": "",
+   "weapon": "vespes",
+   "x": false
+  },
+  {
+   "id": "82451",
+   "isValid": "",
+   "weapon": "cavalls",
+   "x": false
+  },
+  {
+   "id": "82453",
+   "isValid": "",
+   "weapon": "trampa per óssos",
+   "x": false
+  },
+  {
+   "id": "82458",
+   "isValid": "",
+   "weapon": "serra de taula",
+   "x": false
+  },
+  {
+   "id": "82466",
+   "isValid": "",
+   "weapon": "pastanaga",
+   "x": false
+  },
+  {
+   "id": "82491",
+   "isValid": "",
+   "weapon": "caiguda terrible",
+   "x": false
+  },
+  {
+   "id": "82492",
+   "isValid": "",
+   "weapon": "mare",
+   "x": false
+  },
+  {
+   "id": "82496",
+   "isValid": "",
+   "weapon": "truc de màgia",
+   "x": false
+  },
+  {
+   "id": "82499",
+   "isValid": "",
+   "weapon": "paternitat",
+   "x": false
+  },
+  {
+   "id": "82598",
+   "isValid": "",
+   "weapon": "galetes radioactives",
+   "x": false
+  },
+  {
+   "id": "82600",
+   "isValid": "",
+   "weapon": "claus del conserge",
+   "x": false
+  },
+  {
+   "id": "82602",
+   "isValid": "",
+   "weapon": "rímel",
+   "x": false
+  },
+  {
+   "id": "82606",
+   "isValid": "",
+   "weapon": "carretó",
+   "x": false
+  },
+  {
+   "id": "82612",
+   "isValid": "",
+   "weapon": "pantalons amples",
+   "x": false
+  },
+  {
+   "id": "82617",
+   "isValid": "",
+   "weapon": "telèfon rústic",
+   "x": false
+  },
+  {
+   "id": "82775",
+   "isValid": "",
+   "weapon": "deixalles pudents",
+   "x": false
+  },
+  {
+   "id": "82776",
+   "isValid": "",
+   "weapon": "torre de marisc",
+   "x": false
+  },
+  {
+   "id": "82777",
+   "isValid": "",
+   "weapon": "dinosaure",
+   "x": false
+  },
+  {
+   "id": "82778",
+   "isValid": "",
+   "weapon": "moltes culleres",
+   "x": false
+  },
+  {
+   "id": "82779",
+   "isValid": "",
+   "weapon": "trepitjada d'elefant",
+   "x": false
+  },
+  {
+   "id": "82780",
+   "isValid": "",
+   "weapon": "làmpara cara",
+   "x": false
+  },
+  {
+   "id": "82781",
+   "isValid": "",
+   "weapon": "focs artificials",
+   "x": false
+  },
+  {
+   "id": "82782",
+   "isValid": "",
+   "weapon": "bol de sopa",
+   "x": false
+  },
+  {
+   "id": "82783",
+   "isValid": "",
+   "weapon": "caixa de bombons",
+   "x": false
+  },
+  {
+   "id": "82784",
+   "isValid": "",
+   "weapon": "patates amb salsa",
+   "x": false
+  },
+  {
+   "id": "82923",
+   "isValid": "",
+   "weapon": "desastres naturals",
+   "x": false
+  },
+  {
+   "id": "82924",
+   "isValid": "",
+   "weapon": "tassa de souvenir",
+   "x": false
+  },
+  {
+   "id": "82925",
+   "isValid": "",
+   "weapon": "tisores grans",
+   "x": false
+  },
+  {
+   "id": "82927",
+   "isValid": "",
+   "weapon": "vestit fabulós",
+   "x": false
+  },
+  {
+   "id": "82929",
+   "isValid": "",
+   "weapon": "roure gegant",
+   "x": false
+  },
+  {
+   "id": "82930",
+   "isValid": "",
+   "weapon": "rumors",
+   "x": false
+  },
+  {
+   "id": "82976",
+   "isValid": "",
+   "weapon": "maça de jutge",
+   "x": false
+  },
+  {
+   "id": "82985",
+   "isValid": "",
+   "weapon": "ou de drac",
+   "x": false
+  },
+  {
+   "id": "82989",
+   "isValid": "",
+   "weapon": "trampolí amb punxes",
+   "x": false
+  },
+  {
+   "id": "83128",
+   "isValid": "",
+   "weapon": "caçarrecompenses",
+   "x": false
+  },
+  {
+   "id": "83129",
+   "isValid": "",
+   "weapon": "telèfon mòbil",
+   "x": false
+  },
+  {
+   "id": "83130",
+   "isValid": "",
+   "weapon": "cranc extrany",
+   "x": false
+  },
+  {
+   "id": "83131",
+   "isValid": "",
+   "weapon": "animal del zoo",
+   "x": false
+  },
+  {
+   "id": "83132",
+   "isValid": "",
+   "weapon": "explosió de gasolina",
+   "x": false
+  },
+  {
+   "id": "83133",
+   "isValid": "",
+   "weapon": "foguera",
+   "x": false
+  },
+  {
+   "id": "83134",
+   "isValid": "",
+   "weapon": "discusió pujada de to",
+   "x": false
+  },
+  {
+   "id": "83135",
+   "isValid": "",
+   "weapon": "jacuzzi",
+   "x": false
+  },
+  {
+   "id": "83136",
+   "isValid": "",
+   "weapon": "eines del camp",
+   "x": false
+  },
+  {
+   "id": "83137",
+   "isValid": "",
+   "weapon": "bardisses",
+   "x": false
+  },
+  {
+   "id": "83138",
+   "isValid": "",
+   "weapon": "el monstre de la cova",
+   "x": false
+  },
+  {
+   "id": "83139",
+   "isValid": "",
+   "weapon": "batalla d'hoquei",
+   "x": false
+  },
+  {
+   "id": "83140",
+   "isValid": "",
+   "weapon": "muntanya russa",
+   "x": false
+  },
+  {
+   "id": "83141",
+   "isValid": "",
+   "weapon": "dentista boig",
+   "x": false
+  },
+  {
+   "id": "83142",
+   "isValid": "",
+   "weapon": "forçut de circ",
+   "x": false
+  },
+  {
+   "id": "83145",
+   "isValid": "",
+   "weapon": "vell amic",
+   "x": false
+  },
+  {
+   "id": "83146",
+   "isValid": "",
+   "weapon": "traïció!",
+   "x": false
+  },
+  {
+   "id": "83147",
+   "isValid": "",
+   "weapon": "una bona abraçada",
+   "x": false
+  },
+  {
+   "id": "83148",
+   "isValid": "",
+   "weapon": "boa constrictor",
+   "x": false
+  },
+  {
+   "id": "83149",
+   "isValid": "",
+   "weapon": "pànic escènic",
+   "x": false
+  },
+  {
+   "id": "83150",
+   "isValid": "",
+   "weapon": "cactus",
+   "x": false
+  },
+  {
+   "id": "83155",
+   "isValid": "",
+   "weapon": "pentinat horrible",
+   "x": false
+  },
+  {
+   "id": "83156",
+   "isValid": "",
+   "weapon": "talla-ungles",
+   "x": false
+  },
+  {
+   "id": "83236",
+   "isValid": "",
+   "weapon": "una llaga",
+   "x": false
+  },
+  {
+   "id": "83290",
+   "isValid": "",
+   "weapon": "hummus",
+   "x": false
+  },
+  {
+   "id": "83291",
+   "isValid": "",
+   "weapon": "flauta infinita",
+   "x": false
+  },
+  {
+   "id": "83294",
+   "isValid": "",
+   "weapon": "contaminació",
+   "x": false
+  },
+  {
+   "id": "83295",
+   "isValid": "",
+   "weapon": "còctel molotov",
+   "x": false
+  },
+  {
+   "id": "83296",
+   "isValid": "",
+   "weapon": "un pet dels pitjors",
+   "x": false
+  },
+  {
+   "id": "83301",
+   "isValid": "",
+   "weapon": "boomerang",
+   "x": false
+  },
+  {
+   "id": "83303",
+   "isValid": "",
+   "weapon": "meteorit minúscul",
+   "x": false
+  },
+  {
+   "id": "83306",
+   "isValid": "",
+   "weapon": "pal de golf",
+   "x": false
+  },
+  {
+   "id": "83308",
+   "isValid": "",
+   "weapon": "autobús",
+   "x": false
+  },
+  {
+   "id": "83309",
+   "isValid": "",
+   "weapon": "ampolla trencada",
+   "x": false
+  },
+  {
+   "id": "83311",
+   "isValid": "",
+   "weapon": "estampida",
+   "x": false
+  },
+  {
+   "id": "83313",
+   "isValid": "",
+   "weapon": "grapadora",
+   "x": false
+  },
+  {
+   "id": "83316",
+   "isValid": "",
+   "weapon": "acordió",
+   "x": false
+  },
+  {
+   "id": "83317",
+   "isValid": "",
+   "weapon": "carbó encès",
+   "x": false
+  },
+  {
+   "id": "83319",
+   "isValid": "",
+   "weapon": "fil dental",
+   "x": false
+  },
+  {
+   "id": "83321",
+   "isValid": "",
+   "weapon": "tanc",
+   "x": false
+  },
+  {
+   "id": "83322",
+   "isValid": "",
+   "weapon": "obrellaunes",
+   "x": false
+  },
+  {
+   "id": "83402",
+   "isValid": "",
+   "weapon": "una bonica cançó",
+   "x": false
+  },
+  {
+   "id": "83405",
+   "isValid": "",
+   "weapon": "bolígraf",
+   "x": false
+  },
+  {
+   "id": "83406",
+   "isValid": "",
+   "weapon": "piscina de boles",
+   "x": false
+  },
+  {
+   "id": "83407",
+   "isValid": "",
+   "weapon": "caixa plena de pedres",
+   "x": false
+  },
+  {
+   "id": "83408",
+   "isValid": "",
+   "weapon": "sardines en llauna",
+   "x": false
+  },
+  {
+   "id": "83409",
+   "isValid": "",
+   "weapon": "canó enorme",
+   "x": false
+  },
+  {
+   "id": "83410",
+   "isValid": "",
+   "weapon": "catapulta",
+   "x": false
+  },
+  {
+   "id": "83411",
+   "isValid": "",
+   "weapon": "kebabs de pollastre",
+   "x": false
+  },
+  {
+   "id": "83412",
+   "isValid": "",
+   "weapon": "discoteca",
+   "x": false
+  },
+  {
+   "id": "83413",
+   "isValid": "",
+   "weapon": "falta de respecte",
+   "x": false
+  },
+  {
+   "id": "83414",
+   "isValid": "",
+   "weapon": "màquina de piercings",
+   "x": false
+  },
+  {
+   "id": "83415",
+   "isValid": "",
+   "weapon": "llaminadures caducades",
+   "x": false
+  },
+  {
+   "id": "83416",
+   "isValid": "",
+   "weapon": "vampir",
+   "x": false
+  },
+  {
+   "id": "83417",
+   "isValid": "",
+   "weapon": "jersei de llana",
+   "x": false
+  },
+  {
+   "id": "83418",
+   "isValid": "",
+   "weapon": "pluja intensa",
+   "x": false
+  },
+  {
+   "id": "83419",
+   "isValid": "",
+   "weapon": "rem de caiac",
+   "x": false
+  },
+  {
+   "id": "83420",
+   "isValid": "",
+   "weapon": "marieta assassina",
+   "x": false
+  },
+  {
+   "id": "83422",
+   "isValid": "",
+   "weapon": "coet directe al Sol",
+   "x": false
+  },
+  {
+   "id": "83423",
+   "isValid": "",
+   "weapon": "tristesa interminable",
+   "x": false
+  },
+  {
+   "id": "83424",
+   "isValid": "",
+   "weapon": "llibre de biblioteca expirat",
+   "x": false
+  },
+  {
+   "id": "83425",
+   "isValid": "",
+   "weapon": "al·lucinacions",
+   "x": false
+  },
+  {
+   "id": "83426",
+   "isValid": "",
+   "weapon": "espantasogres",
+   "x": false
+  },
+  {
+   "id": "83428",
+   "isValid": "",
+   "weapon": "tac de billar",
+   "x": false
+  },
+  {
+   "id": "83429",
+   "isValid": "",
+   "weapon": "popurrí",
+   "x": false
+  },
+  {
+   "id": "83430",
+   "isValid": "",
+   "weapon": "escorpí rabiós",
+   "x": false
+  },
+  {
+   "id": "83431",
+   "isValid": "",
+   "weapon": "cheddar molt afilat",
+   "x": false
+  },
+  {
+   "id": "83432",
+   "isValid": "",
+   "weapon": "tigre dents de sabre",
+   "x": false
+  },
+  {
+   "id": "83433",
+   "isValid": "",
+   "weapon": "te massa calent",
+   "x": false
+  },
+  {
+   "id": "83434",
+   "isValid": "",
+   "weapon": "el mar",
+   "x": false
+  },
+  {
+   "id": "83435",
+   "isValid": "",
+   "weapon": "tricicle mortal",
+   "x": false
+  },
+  {
+   "id": "83437",
+   "isValid": "",
+   "weapon": "barbanegra el temut",
+   "x": false
+  },
+  {
+   "id": "83438",
+   "isValid": "",
+   "weapon": "atac de globus d'aigua",
+   "x": false
+  },
+  {
+   "id": "83439",
+   "isValid": "",
+   "weapon": "bat de beisbol",
+   "x": false
+  },
+  {
+   "id": "83440",
+   "isValid": "",
+   "weapon": "la world wide web",
+   "x": false
+  },
+  {
+   "id": "83540",
+   "isValid": "",
+   "weapon": "viatge en el temps",
+   "x": false
+  },
+  {
+   "id": "83541",
+   "isValid": "",
+   "weapon": "marató de pelis",
+   "x": false
+  },
+  {
+   "id": "83542",
+   "isValid": "",
+   "weapon": "escales lliscants",
+   "x": false
+  },
+  {
+   "id": "83546",
+   "isValid": "",
+   "weapon": "robot amb sentiments",
+   "x": false
+  },
+  {
+   "id": "83581",
+   "isValid": "",
+   "weapon": "entrepà de pernil",
+   "x": false
+  },
+  {
+   "id": "83586",
+   "isValid": "",
+   "weapon": "imitador de Napoleó",
+   "x": false
+  },
+  {
+   "id": "83587",
+   "isValid": "",
+   "weapon": "excés de feina",
+   "x": false
+  },
+  {
+   "id": "83593",
+   "isValid": "",
+   "weapon": "peu enorme",
+   "x": false
+  },
+  {
+   "id": "83595",
+   "isValid": "",
+   "weapon": "skate fràgil",
+   "x": false
+  },
+  {
+   "id": "83596",
+   "isValid": "",
+   "weapon": "cotxe autònom",
+   "x": false
+  },
+  {
+   "id": "83598",
+   "isValid": "",
+   "weapon": "assassí tímid",
+   "x": false
+  },
+  {
+   "id": "83599",
+   "isValid": "",
+   "weapon": "bebé maligne",
+   "x": false
+  },
+  {
+   "id": "83602",
+   "isValid": "",
+   "weapon": "mort per xocolata",
+   "x": false
+  },
+  {
+   "id": "83605",
+   "isValid": "",
+   "weapon": "pastís d'aniversari",
+   "x": false
+  },
+  {
+   "id": "83606",
+   "isValid": "",
+   "weapon": "torradora",
+   "x": false
+  },
+  {
+   "id": "83607",
+   "isValid": "",
+   "weapon": "rosa amb espines",
+   "x": false
+  },
+  {
+   "id": "83608",
+   "isValid": "",
+   "weapon": "vergonya",
+   "x": false
+  },
+  {
+   "id": "83775",
+   "isValid": "",
+   "weapon": "accident d'unicicle",
+   "x": false
+  },
+  {
+   "id": "83776",
+   "isValid": "",
+   "weapon": "moltíssims deutes",
+   "x": false
+  },
+  {
+   "id": "83777",
+   "isValid": "",
+   "weapon": "conills enrabiats",
+   "x": false
+  },
+  {
+   "id": "83782",
+   "isValid": "",
+   "weapon": "cranc adorable",
+   "x": false
+  },
+  {
+   "id": "83787",
+   "isValid": "",
+   "weapon": "pell de plàtan",
+   "x": false
+  },
+  {
+   "id": "83792",
+   "isValid": "",
+   "weapon": "oca",
+   "x": false
+  },
+  {
+   "id": "83794",
+   "isValid": "",
+   "weapon": "explosió nuclear",
+   "x": false
+  },
+  {
+   "id": "83800",
+   "isValid": "",
+   "weapon": "nostàlgia melancòlica",
+   "x": false
+  },
+  {
+   "id": "83823",
+   "isValid": "",
+   "weapon": "termini massa just",
+   "x": false
+  },
+  {
+   "id": "83825",
+   "isValid": "",
+   "weapon": "notes de fi de curs",
+   "x": false
+  },
+  {
+   "id": "83826",
+   "isValid": "",
+   "weapon": "cartell de terra moll",
+   "x": false
+  },
+  {
+   "id": "83828",
+   "isValid": "",
+   "weapon": "fletxa de Cupid",
+   "x": false
+  },
+  {
+   "id": "83832",
+   "isValid": "",
+   "weapon": "torpede",
+   "x": false
+  },
+  {
+   "id": "84059",
+   "isValid": "",
+   "weapon": "falcó ensinistrat",
+   "x": false
+  },
+  {
+   "id": "84064",
+   "isValid": "",
+   "weapon": "guitarra elèctrica",
+   "x": false
+  },
+  {
+   "id": "84065",
+   "isValid": "",
+   "weapon": "bicicleta",
+   "x": false
+  },
+  {
+   "id": "84076",
+   "isValid": "",
+   "weapon": "maledicció d'una bruixa",
+   "x": false
+  },
+  {
+   "id": "84084",
+   "isValid": "",
+   "weapon": "manteta",
+   "x": false
+  },
+  {
+   "id": "84085",
+   "isValid": "",
+   "weapon": "família de lèmurs",
+   "x": false
+  },
+  {
+   "id": "84092",
+   "isValid": "",
+   "weapon": "pistola",
+   "x": true
+  },
+  {
+   "id": "84094",
+   "isValid": "",
+   "weapon": "mostassa picant",
+   "x": false
+  },
+  {
+   "id": "84098",
+   "isValid": "",
+   "weapon": "zeppelin",
+   "x": false
+  },
+  {
+   "id": "84099",
+   "isValid": "",
+   "weapon": "duel de ball",
+   "x": false
+  },
+  {
+   "id": "84103",
+   "isValid": "",
+   "weapon": "buldòzer",
+   "x": false
+  },
+  {
+   "id": "84107",
+   "isValid": "",
+   "weapon": "donut de gelatina",
+   "x": false
+  },
+  {
+   "id": "84108",
+   "isValid": "",
+   "weapon": "plomall per la pols",
+   "x": false
+  },
+  {
+   "id": "84111",
+   "isValid": "",
+   "weapon": "valla elèctrica",
+   "x": false
+  },
+  {
+   "id": "84505",
+   "isValid": "",
+   "weapon": "planta carnívora",
+   "x": false
+  },
+  {
+   "id": "84507",
+   "isValid": "",
+   "weapon": "trident de Posidó",
+   "x": false
+  },
+  {
+   "id": "84508",
+   "isValid": "",
+   "weapon": "lloro massa intel·ligent",
+   "x": false
+  },
+  {
+   "id": "84511",
+   "isValid": "",
+   "weapon": "placatge de rugby",
+   "x": false
+  },
+  {
+   "id": "84512",
+   "isValid": "",
+   "weapon": "menjar d'avió",
+   "x": false
+  },
+  {
+   "id": "84515",
+   "isValid": "",
+   "weapon": "laberint impossible",
+   "x": false
+  },
+  {
+   "id": "84517",
+   "isValid": "",
+   "weapon": "vaixell foradat",
+   "x": false
+  },
+  {
+   "id": "84519",
+   "isValid": "",
+   "weapon": "mag sinistre",
+   "x": false
+  },
+  {
+   "id": "84528",
+   "isValid": "",
+   "weapon": "croquetes enverinades",
+   "x": false
+  },
+  {
+   "id": "84529",
+   "isValid": "",
+   "weapon": "concert multitudinari",
+   "x": false
+  },
+  {
+   "id": "84535",
+   "isValid": "",
+   "weapon": "espantaocells assassí",
+   "x": false
+  },
+  {
+   "id": "84542",
+   "isValid": "",
+   "weapon": "cowboy vengatiu",
+   "x": false
+  },
+  {
+   "id": "84588",
+   "isValid": "",
+   "weapon": "trombó",
+   "x": false
+  },
+  {
+   "id": "84591",
+   "isValid": "",
+   "weapon": "masses frankfurts",
+   "x": false
+  },
+  {
+   "id": "84592",
+   "isValid": "",
+   "weapon": "serp verinosa",
+   "x": false
+  },
+  {
+   "id": "84611",
+   "isValid": "",
+   "weapon": "trituradora de fusta",
+   "x": false
+  },
+  {
+   "id": "84614",
+   "isValid": "",
+   "weapon": "habitació congelador",
+   "x": false
+  },
+  {
+   "id": "84631",
+   "isValid": "",
+   "weapon": "spray de pebre",
+   "x": false
+  },
+  {
+   "id": "84634",
+   "isValid": "",
+   "weapon": "aneguet de banyera",
+   "x": false
+  },
+  {
+   "id": "84637",
+   "isValid": "",
+   "weapon": "làpida",
+   "x": false
+  },
+  {
+   "id": "84681",
+   "isValid": "",
+   "weapon": "gran forat",
+   "x": false
+  },
+  {
+   "id": "85010",
+   "isValid": "",
+   "weapon": "bocina d'aire",
+   "x": false
+  },
+  {
+   "id": "85011",
+   "isValid": "",
+   "weapon": "el pes de la llei",
+   "x": false
+  },
+  {
+   "id": "85014",
+   "isValid": "",
+   "weapon": "excés d'amor",
+   "x": false
+  },
+  {
+   "id": "85016",
+   "isValid": "",
+   "weapon": "solo de jazz",
+   "x": false
+  },
+  {
+   "id": "85017",
+   "isValid": "",
+   "weapon": "malson",
+   "x": false
+  },
+  {
+   "id": "85019",
+   "isValid": "",
+   "weapon": "lluita de gladiadors",
+   "x": false
+  },
+  {
+   "id": "85020",
+   "isValid": "",
+   "weapon": "sorres movedisses",
+   "x": false
+  },
+  {
+   "id": "85024",
+   "isValid": "",
+   "weapon": "hivern dur",
+   "x": false
+  },
+  {
+   "id": "85025",
+   "isValid": "",
+   "weapon": "rasclet",
+   "x": false
+  },
+  {
+   "id": "85029",
+   "isValid": "",
+   "weapon": "belles arts",
+   "x": false
+  },
+  {
+   "id": "85030",
+   "isValid": "",
+   "weapon": "pastís a la cara",
+   "x": false
+  },
+  {
+   "id": "85157",
+   "isValid": "",
+   "weapon": "banda de delinqüents",
+   "x": false
+  },
+  {
+   "id": "85158",
+   "isValid": "",
+   "weapon": "granota ballarina",
+   "x": false
+  },
+  {
+   "id": "85161",
+   "isValid": "",
+   "weapon": "posta de sol espectacular",
+   "x": false
+  },
+  {
+   "id": "85162",
+   "isValid": "",
+   "weapon": "arbre de nadal",
+   "x": false
+  },
+  {
+   "id": "85164",
+   "isValid": "",
+   "weapon": "ira a la carretera",
+   "x": false
+  },
+  {
+   "id": "85166",
+   "isValid": "",
+   "weapon": "apocalipsi zombi",
+   "x": false
+  },
+  {
+   "id": "85171",
+   "isValid": "",
+   "weapon": "T. rex",
+   "x": false
+  },
+  {
+   "id": "85172",
+   "isValid": "",
+   "weapon": "talons de 15cm",
+   "x": false
+  },
+  {
+   "id": "85173",
+   "isValid": "",
+   "weapon": "espardenyes",
+   "x": false
+  },
+  {
+   "id": "85174",
+   "isValid": "",
+   "weapon": "firme encaixada de mans",
+   "x": false
+  },
+  {
+   "id": "85177",
+   "isValid": "",
+   "weapon": "un sol cargol",
+   "x": false
+  },
+  {
+   "id": "85181",
+   "isValid": "",
+   "weapon": "làmpara de geni",
+   "x": false
+  },
+  {
+   "id": "85182",
+   "isValid": "",
+   "weapon": "pot ple d'insectes",
+   "x": false
+  },
+  {
+   "id": "85183",
+   "isValid": "",
+   "weapon": "ballesta",
+   "x": false
+  },
+  {
+   "id": "85184",
+   "isValid": "",
+   "weapon": "canelobre",
+   "x": false
+  },
+  {
+   "id": "85185",
+   "isValid": "",
+   "weapon": "bat de beisbol amb claus",
+   "x": false
+  },
+  {
+   "id": "85188",
+   "isValid": "",
+   "weapon": "balconing",
+   "x": true
+  },
+  {
+   "id": "85555",
+   "isValid": "",
+   "weapon": "cadira plegable",
+   "x": false
+  },
+  {
+   "id": "85561",
+   "isValid": "",
+   "weapon": "moto explosiva",
+   "x": false
+  },
+  {
+   "id": "85572",
+   "isValid": "",
+   "weapon": "cafè cremant",
+   "x": false
+  },
+  {
+   "id": "85574",
+   "isValid": "",
+   "weapon": "raigs còsmics",
+   "x": false
+  },
+  {
+   "id": "85577",
+   "isValid": "",
+   "weapon": "coça d'un ase",
+   "x": false
+  },
+  {
+   "id": "85578",
+   "isValid": "",
+   "weapon": "ampolles de vi",
+   "x": true
+  },
+  {
+   "id": "85581",
+   "isValid": "",
+   "weapon": "poma enverinada",
+   "x": false
+  },
+  {
+   "id": "85587",
+   "isValid": "",
+   "weapon": "salsa picant",
+   "x": false
+  },
+  {
+   "id": "85588",
+   "isValid": "",
+   "weapon": "menjar ràpid",
+   "x": false
+  },
+  {
+   "id": "85590",
+   "isValid": "",
+   "weapon": "cotxe teledirigit",
+   "x": false
+  },
+  {
+   "id": "85596",
+   "isValid": "",
+   "weapon": "insectes mutants entrenats",
+   "x": false
+  }
+ ]
+}
