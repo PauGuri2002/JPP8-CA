@@ -1,0 +1,166 @@
+{
+ "content": [
+    {
+    "prompt": "La Teva Salutació Preferida",
+    "choices" : [
+           "Abraçada Càlida",
+           "Donar La Mà",
+           "Xocar La Mà",
+           "Assentir",
+           "Petó a La Galta"
+       ]
+    },
+    {
+    "prompt": "Millor Addició Al Cacau",
+    "choices" : [
+           "Nubes",
+           "Nata Muntada",
+           "Canyella",
+           "Bastó De Caramel",
+           "Taronja Ratllada"
+       ]
+    },
+    {
+    "prompt": "Barrets Més Guais",
+    "choices" : [
+           "Barret de Copa",
+           "Gorro",
+           "Fedora",
+           "Boina",
+           "Corona"
+       ]
+    },
+    {
+    "prompt": "Millors Maneres de Tancar Pantalons",
+    "choices" : [
+           "Botó",
+           "Cremallera",
+           "Imperdible",
+           "Velcro",
+           "Corda"
+       ]
+    },
+    {
+    "prompt": "Colors de Cabells Preferits",
+    "choices" : [
+           "Ros",
+           "Castany",
+           "Negre",
+           "Gris",
+           "Calb"
+       ]
+    },
+    {
+    "prompt": "Millors Eines de Jardí",
+    "choices" : [
+           "Rasclet",
+           "Pala",
+           "Cisalla",
+           "Aixada",
+           "Tallagespa"
+       ]
+    },
+    {
+    "prompt": "Millors Joguines de Bebé",
+    "choices" : [
+           "Cotxe",
+           "Blocs",
+           "Os De Peluix",
+           "Claus",
+           "Pedres"
+       ]
+    },
+    {
+    "prompt": "Millors Objectes Per Seure-hi",
+    "choices" : [
+           "Sofà",
+           "Tamburet",
+           "Bola De Ioga",
+           "Banc De Fusta",
+           "Seient Sac"
+       ]
+    },
+    {
+    "prompt": "Què S'Enganxa Més",
+    "choices" : [
+           "Cola",
+           "Mel",
+           "Quitrà",
+           "Mermelada",
+           "Xiclet"
+       ]
+    },
+    {
+    "prompt": "Els Doctors Que Inspiren Més Confiança",
+    "choices" : [
+           "Dr. Malèfic",
+           "Dr. Oz",
+           "Dr. Estrany",
+           "Dr. Seuss",
+           "Dr. Ruth"
+       ]
+    },
+    {
+    "prompt": "Els Capitans Més Heroics",
+    "choices" : [
+           "Cpt. America",
+           "Cpt. Marvel",
+           "Cpt. Kirk",
+           "Cpt. Planet",
+           "Cpt. Crunch"
+       ]
+    },
+    {
+    "prompt": "Què et fa riure més?",
+    "choices" : [
+           "Pets",
+           "Res",
+           "Memes",
+           "Vídeos de Gats",
+           "Acudits de Coves"
+       ]
+    },
+    {
+    "prompt": "Millors Coses Per Empènyer",
+    "choices" : [
+           "Un Botó",
+           "Un Cotxet",
+           "Un Gronxador",
+           "Una Porta",
+           "Un Maleducat"
+       ]
+    },
+    {
+    "prompt": "Millors Coses Per Calar-li Foc",
+    "choices" : [
+           "Espelma",
+           "Tronc",
+           "Petard",
+           "Crêpe",
+           "Efígie"
+       ]
+    },
+    {
+    "prompt": "Pitjors Usos De La Salsa Picant",
+    "choices" : [
+           "Pasta De Dents",
+           "Xampú",
+           "Desodorant",
+           "Colutori",
+           "Crema Solar"
+       ]
+    },
+    {
+    "prompt": "Parts Més Interessants De L'Espai",
+    "choices" : [
+           "Meteorits",
+           "Forats Negres",
+           "Estrelles",
+           "Aliens?",
+           "Llunes"
+       ]
+    }
+ ]
+}
+
+
